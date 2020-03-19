@@ -6,8 +6,13 @@
 
 - 通过邮箱定时发送相关疫情信息
 - 支持邮箱回复关键字，查询地区的具体状况，例如：回复山东，查询山东各省市状况
+- html邮箱定制信息
 
 #### 相关截图:
+
+![1](https://github.com/itimetime/OutbreakReporting/blob/master/img/QQ1.png)
+
+![2](https://github.com/itimetime/OutbreakReporting/blob/master/img/QQ2.png)
 
 
 
